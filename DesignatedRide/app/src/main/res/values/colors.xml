@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ea756d</color>
+    <color name="colorPrimaryDark">#E66152</color>
+    <color name="colorAccentWhiteBrown">#eeead5</color>
+    <color name="colorAccentLight">#fee379</color>
+    <color name="colorAccentDark">#a67c52</color>
+    <color name="colorTextBlue">#3ba5e1</color>
+    <color name="colorGrey">#e3e3e3</color>
+    <color name="colorDarkGray">#a9a9a9</color>
+    <color name="colorTransparentBlack">#1a000000</color>
+
+    <color name="colorTextBlack">#000000</color>
+    <color name="colorTextWhite">#ffffff</color>
+
+    <color name="textBoxBackground">#f5fbf1</color>
+    <color name="forgotPassText">#fff4d9</color>
+    <!--Color of "DesignatedRide title-->
+    <color name="titleFontColor" >#c52929</color>
+    <!--<color name="colorTextLight">#fafafa</color>-->
+    <color name="helpTextColor">@color/colorTextWhite</color>
+
+    <color name="buttonTextDefault">@color/colorTextWhite</color>
+    <color name="buttonBorderColor">@color/colorTextWhite</color>
+    <color name="buttonInnerColor">@color/colorPrimary</color>
+
+    <color name="input_et">#F5FBEF</color>
+    <color name="input_et1">#F88D7B</color>
+    <color name="input_et2">#ED6554</color>
+</resources>
